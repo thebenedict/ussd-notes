@@ -4,7 +4,7 @@
 
 ### Send money flow
 
-M-Pesa send money happens over USSD, with a reply over SMS. The flow starts fromthe main mobile money menu at `*150*00#<SEND>`:
+M-Pesa send money via USSD with a reply over SMS. The flow starts from the main mobile money menu at `*150*00#<SEND>`:
 
 ![Vodacom send money step 1 of 7](/images/tz/vodacom_send_money_1of7.jpg?raw=true)
 ![Vodacom send money step 2 of 7](/images/tz/vodacom_send_money_2of7.jpg?raw=true)
