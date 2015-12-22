@@ -6,11 +6,11 @@
 
 In general concatenating multiple steps into long strings *does not* work. For example, the main menu for services other than M-Pesa is at `*149*01#<SEND>`:
 
-![Vodacom TZ main menu](/master/images/tz/vodacom_main.jpg?raw=true)
+![Vodacom TZ main menu](/blob/master/images/tz/vodacom_main.jpg?raw=true)
 
 Then choosing option `5<SEND>` (internet) brings up a menu of internet services as expected
 
-![Vodacom TZ internet menu](/master/images/tz/vodacom_internet.jpg?raw=true)
+![Vodacom TZ internet menu](/blob/master/images/tz/vodacom_internet.jpg?raw=true)
 
 However, concatenating into a single long string `*149*01*5#<SEND>` does not display the internet menu. It returns the error:
 
