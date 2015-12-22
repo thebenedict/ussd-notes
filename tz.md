@@ -31,4 +31,6 @@ However, concatenating into a single long string `*149*01*5#<SEND>` does not dis
 
   > An invalid parameter was entered.
 
-Note that the `01` suffix is required to bring up the menu. `*149#<SEND>` yields the same 'invalid parameter' error above.
+Note that `*149#<SEND>` yields the same 'invalid parameter' error, i.e. the `01` suffix is required to bring up the menu.
+
+The send money flow, shows similar behavior except that instead of an error, any code beginning with `*150*00*` yields the main mobile money menu. 
