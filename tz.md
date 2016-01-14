@@ -48,3 +48,22 @@ It's surprisingly hard to google more information on this, and why it works on s
  > Lot’s of stupid-and-greedy people were caught on losing their own money. The scammers got a lot of credit. They can trade for real-money in a proportion of 1-to-2 let’s say. They can trade it using the same buggy USSD credit transfer application that got them the credit in the first place :) or just use the credit for calls. Also, the pre-pay cards are anonymous, so you don’t have an identity linked directly to it, so the complaints to authorities and to TELCOs by the victims have no way to punish the abusers.
 
  > So, the lesson was somehow learned and the TELCOs now offer the credit transfer application via step-by-step menu navigation - no more one shortcut USSD string.
+
+
+## Tigo
+
+### Send money
+
+*150*01#
+1 (Send Money)
+1 (To Mobile Number)
+<ENTER RECIPIENT NUMBER>
+<ENTER AMOUNT>
+<ENTER PIN>
+
+### Check balance (costs TSH 50)
+
+*150*01#
+5 (My Account and Balances)
+2 (Check Balance)
+<ENTER PIN>
