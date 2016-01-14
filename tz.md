@@ -55,15 +55,23 @@ It's surprisingly hard to google more information on this, and why it works on s
 ### Send money
 
 `*150*01#`
+
 `1` (Send Money)
+
 `1` (To Mobile Number)
+
 <ENTER RECIPIENT NUMBER>
+
 <ENTER AMOUNT>
+
 <ENTER PIN>
 
 ### Check balance (costs TSH 50)
 
 `*150*01#`
+
 `5` (My Account and Balances)
+
 `2` (Check Balance)
+
 <ENTER PIN>
