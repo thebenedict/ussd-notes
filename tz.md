@@ -60,11 +60,11 @@ It's surprisingly hard to google more information on this, and why it works on s
 
 `1` (To Mobile Number)
 
-<ENTER RECIPIENT NUMBER>
+[ENTER RECIPIENT NUMBER]
 
-<ENTER AMOUNT>
+[ENTER AMOUNT]
 
-<ENTER PIN>
+[ENTER PIN]
 
 ### Check balance (costs TSH 50)
 
@@ -74,4 +74,4 @@ It's surprisingly hard to google more information on this, and why it works on s
 
 `2` (Check Balance)
 
-<ENTER PIN>
+[ENTER PIN]
